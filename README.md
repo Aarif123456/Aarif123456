@@ -49,7 +49,7 @@
 </p>
 
 <h2>CS Interests</h2>
-<details><summary></summary>
+<details><summary>Fields I have explored in CS and find interesting.</summary>
 <ul> 
     <li>Making Projects
         <ul>
@@ -117,8 +117,7 @@
 </details>
 
 <h2>Other Interests</h2>
-<details><summary></summary>
-<p>Below is a list of some things I find interesting. For some topics, I explain why I think what draws me to the topic. Other times, I just list sub-topics. So, the tree is a mix of a brain dump and hopefully gives some insight into things I like.</p>
+<details><summary>Below is a list of some things I find interesting. For some topics, I explain why I think what draws me to the topic. Other times, I just list sub-topics. So, the tree is a mix of a brain dump and hopefully gives some insight into things I like.</summary>
 
 <ul> <!-- Interests lists -->
     <li><details><summary>Social Sciences</summary>
