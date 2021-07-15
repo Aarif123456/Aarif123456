@@ -516,14 +516,7 @@
 </ul>
  -->
 
-## Stats 
-
-![](https://github-readme-stats.vercel.app/api?username=aarif123456&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark)
-
-<!--
-[![Abdullah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarif123456&theme=blue-green)](https://github.com/aarif123456) -->
-
-### FAQ
+## FAQ
 
 <p>Questions I have either been asked and had a lot more to say. Or, things I thought a bit about and give insight into who I am.</p>
 
@@ -539,7 +532,14 @@
 <p>It’s no surprise that I enjoy coding. But, it’s hard to explain why you like anything. I hope that by comparing it to other hobbies I’ve made it a little to see why CS is awesome.</p>
 </details>
 
-## My Current Jam</h3>
+## Stats 
+
+![](https://github-readme-stats.vercel.app/api?username=aarif123456&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark)
+
+<!--
+[![Abdullah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarif123456&theme=blue-green)](https://github.com/aarif123456) -->
+
+<h2>Current Jam</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aarif123456&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
