@@ -1,5 +1,4 @@
 # 👋🏽 Hi, I'm Abdullah! 
-![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aarif123456.aarif123456&color=00cf00&style=for-the-badge) 
 
 <!-- [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/3JzSZnHC)-->
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdullaharif.tech%2F)](https://abdullaharif.tech/) 
@@ -7,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/abdullaharif98-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullaharif98)
 [![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://www.dropbox.com/s/hrlh6qpwrz3iew5/Abdullah_Arif_Resume.pdf?dl=0)
 
-### Languages
+### Tools and Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,17 +17,13 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-### Framework
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Databases
 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,8 +31,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### Cloud
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -275,17 +268,17 @@
                 </ul>
             </details></li> 
             <li><details><summary>History</summary>
-                <p>I have always seen history as a collection of stories that happen to be true. So, whenever I am researching a historical event, I try to figure out what happened and deepen my understanding of the characters involved. For example, when I was learning about Julius Caesar's assassination, I would try to figure out why he wanted to conquer Rome. And, I would try to learn about his oppositions and what they wanted.</p>
-                <p>I would also try to learn more about the setting. For example,  their two consul system seemed weird. How did it start?  Why were they so afraid of a potential dictator. Unlike in a novel, you can follow your curiosity and the story continues to grow. I have never been a big dates guy, but the more I learn the better I get at placing things chronologically.</p>
+                <p>I have always seen history as a collection of stories that happen to be true. So, whenever I am researching a historical event, I try to figure out what happened and deepen my understanding of the characters involved. For example, while learning about Julius Caesar's assassination, I tried to figure out why he wanted to conquer Rome. Then I researched his oppositions and analyzed their motivations.</p>
+                <p>I would also try to learn more about the setting. For example, the two-consul system seemed weird. How did it start?  Why were they so afraid of a potential dictator. Unlike in a novel, you can follow your curiosity and the story continues to grow. I don't go out of my way to memorize the dates of different events, but the more I learn, the better I get at placing things chronologically.</p>
+                <p>I also love history for putting things into perspective. For example, every solution has a tradeoff. By studying proposed alternates, we can learn they were. This helps us in two major ways.</p>
+                <p>First, it helps us understand what we lose by discarding the current system. Any new system we create should address problems the old system was handling. If it doesn't, we have to ask ourselves: is the tradeoff worth it? If so, then is there anything we can incorporate from the previous system? An example is our transition from hand-based production to machine production. For context, craftsmen and artisans populated the towns of medieval Europe. Groups of these families banded together based on their profession as guilds. Craft-based guilds began manufacturing products that traditionally belonged to other guilds to increase their influence. For example, some leatherworkers created shoes. As a result, the craft-based guild became more reliant on the merchant guild. As the merchant grew increasingly powerful, masters from other guilds also became merchants, creating a new social class. The merchant class capitalized on technological advancement and created small factories. So, we were now able to produce more things for cheaper. So, if the goal of craftsmen-guild was to make goods, then the new factory system was an upgrade. But, we like making things and we <a href="https://www.hbs.edu/ris/Publication%20Files/11-091.pdf">like what we make</a>. Controlling when you work gives you a feeling of autonomy and when skill is coupled with creation it fuels our desire to become experts. <a href="https://www.danpink.com/books/drive">Both are vital to engagement</a>.</p>
+                <p>In comparison, factory workers <a href= "https://www.britannica.com/topic/history-of-work-organization-648000/Monumental-construction#ref67035">required less skill and experience than hand-based crafting</a> and families lost control of their business, so workers could no longer set their hours. Working conditions were also horrible. Fortunately, we have come a long way from then.  However, large corporations still employ the majority of workers. And about <a href="https://www.gallup.com/workplace/330017/employee-engagement-rises-following-wild-2020.aspx">1 in 3</a> are engaged in their work. Maybe emphasizing mastery and increasing autonomy is a step to increasing our productivity and well-being.</p>
+                <p>Another thing we learn by studying alternates is if we now have the technology to bring an idea to life. One example of this is the electric car, which was replaced with the gas car. But, Tesla was able to find a way to make it work. As a result, they have become legendary.</p>
+                <p>Lastly, history is a collection of our experiences as a species. People have come before us. They have struggled. They have made mistakes. History shows us the mistakes we made as societies and as individuals. And I want to learn from them. So I can do better.</p>                
                 <ul>
-                    <li>Also, studying the pasts helps put the present in perspective and gives you a better ideas of what to expect in the future. 
-                    </li>
-                    <li>Past events, circumstances and solution.  Alternates </li>
-                    <li> Wisdom, threat to our species </li>
-                    <li> I feel like the best to prepare for the future is to build on the wisdom we have acquired as a species. My in</li>
                     <li>Archaeology
                         <ul>
-                            <li>I have always see archaeology as a means to an end. Like </li>
+                            <li>I have always see archaeology as a means to an end. Like a way to validate historical stories. </li>
                         </ul>
                    </li>
                 </ul>
@@ -391,14 +384,121 @@
         <ul>
             <li><details><summary>Astronomy</summary>
                 <ul>
+                    <li>Everyone loves space.</li>
+                    <li><details><summary>Megastructures</summary>
+                        <ul>
+                            <li><a href="https://www.youtube.com/watch?v=pP44EPBMb8A">Dyson Sphere</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=v3y8AIEX_dU">Stellar Engines</a></li>
+                        </ul>
+                    </details></li>
+                    <li><details><summary>Terraforming</summary>
+                        <ul>
+                            <li><details><summary>Mars</summary>
+                                <ul>
+                                    <li><a href="https://www.youtube.com/watch?v=uqKGREZs6-w">Kurzgesagt</a></li>
+                                    <li><a href="https://www.youtube.com/watch?v=7XdkKMhAdnA">Star-talk</a></li>
+                                    <li><a href="https://www.youtube.com/watch?v=FshtPsOTCP4">PBS</a></li>
+                                </ul>
+                            </details></li>
+                            <li><a href="https://www.youtube.com/watch?v=G-WO-z-QuWI">Venus</a></li>
+                        </ul>
+                    </details></li>
                 </ul>
             </details></li>
             <li><details><summary>Chemistry</summary>
                 <ul>
+                <li>I have been obsessed with chemistry. I still remember my awe when I first  <a href="https://youtu.be/6H0n0dQe8nE?t=1805">saw an atom</a> in grade 9.</li>
+                <li><details><summary>History</summary>
+                    <ul>
+                        <li>Alchemy evolution</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Physical chemistry - the foundation of chemistry</summary>
+                    <ul>
+                        <li><details><summary>Basics</summary>
+                            <ul>
+                                <li>matter</li>
+                                <li>compounds</li>
+                                <li>reactions</li>
+                                <li>bonding</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Reactions</summary>
+                            <ul>
+                                <li>Chemical kinetics – study of rates of chemical processes.</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Energy</summary>
+                            <ul>
+                                <li>chemical thermodynamics</li>
+                                <li>Thermochemistry - heat generated</li>
+                                <li>spectroscopy- absorption, emission, or scattering of electromagnetic</li>
+                                <li>radiation </li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Phases</summary>
+                            <ul>
+                                <li>Surface science - interaction of two phases</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Electrochemistry</summary>
+                            <ul>
+                                <li>Electricity is cool in general</li>
+                                <li>Humphry Davis and his shows, showing the magic of electricity (Cosmos Space time odyssey episode 10)</li>
+                            </ul>
+                        </details></li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Analytical Chemistry</summary>
+                    <ul>
+                        <li>Forensic chemistry - crime scene chemistry</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Applied chemistry</summary>
+                    <ul>
+                        <li>Organic chemistry</li>
+                        <li>Biochemistry - chemistry living things ties a lot into biology</li>
+                        <li><details><summary>Inorganic chemistry</summary>
+                            <ul>
+                                <li>Nuclear chemistry - fission, fusion, radioactive decay</li>
+                            </ul>
+                        </details></li>
+                    </ul>
+                </details></li>
                 </ul>
             </details></li>
             <li><details><summary>Physics</summary>
                 <ul>
+                    <li>Physics is cools because the consistency of its principle: works everywhere in the visible universe</li>
+                    <li><details><summary>Quantum physics</summary>
+                        <ul>
+                            <li><details><summary>Quantum computing</summary>
+                                <ul>
+                                    <li>Quantum-safe encryption</li>
+                                </ul>
+                            </details></li>
+                            <li><details><summary>Quantum technology</summary>
+                                <ul>
+                                    <li>Lasers</li>
+                                    <li>GPS</li>
+                                    <li>Solar panels</li>
+                                    <li>MRI scanner</li>
+                                    <li>LED</li>
+                                    <li>Transistors</li>
+                                </ul>
+                            </details></li>
+                            <li><details><summary>Experiments</summary>
+                                <ul>
+                                    <li>Double slit</li>
+                                </ul>
+                            </details></li>
+                            <li><details><summary>Current understanding</summary>
+                                <ul>
+                                    <li>Standard model - fundamental forces- </li>
+                                </ul>
+                            </details></li>
+                        </ul>
+                    </details></li>
                 </ul>
             </details></li>
             <li><details><summary>Life science</summary>
@@ -543,3 +643,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aarif123456&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
+\
+![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aarif123456.aarif123456&color=00cf00&style=for-the-badge) 
