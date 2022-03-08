@@ -638,10 +638,5 @@
 
 <!--
 [![Abdullah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarif123456&theme=blue-green)](https://github.com/aarif123456) -->
-
-<h2>Current Jam</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aarif123456&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 \
 ![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aarif123456.aarif123456&color=00cf00&style=for-the-badge) 
