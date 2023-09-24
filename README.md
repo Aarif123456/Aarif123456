@@ -7,7 +7,7 @@
 [![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://www.dropbox.com/s/hrlh6qpwrz3iew5/Abdullah_Arif_Resume.pdf?dl=0)
 
 ### Tools and Tech
-
+![Go](https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=Go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
